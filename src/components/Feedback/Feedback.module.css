@@ -1,0 +1,9 @@
+.feedback ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.feedback .key {
+  text-transform: capitalize;
+  font-weight: 700;
+}/*# sourceMappingURL=Feedback.module.css.map */
